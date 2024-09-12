@@ -51,8 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-Debug/*
-.settings/*
+Debug/
+.settings/
 STM32F746NGHX_FLASH.ld
 STM32F746NGHX_RAM.ld
 *.launch
